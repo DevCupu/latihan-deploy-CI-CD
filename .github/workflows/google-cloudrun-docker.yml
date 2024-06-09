@@ -5,7 +5,7 @@ on:
     branches: ["main"]
 
 env:
-  PROJECT_ID: latihan-devops # TODO: update Google Cloud project id
+  PROJECT_ID: capstonebangkitacademy # TODO: update Google Cloud project id
   GAR_LOCATION: asia-southeast2 # TODO: update Artifact Registry location
   GAR_REPOSITORY_NAME: image-registry # TODO: update Artifact Registry Repository name
   SERVICE: example-cloud-run-github-actions # TODO: update Cloud Run service name
